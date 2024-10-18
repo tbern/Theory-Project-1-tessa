@@ -3,7 +3,7 @@ Team name: tessa
 
 Names of all team members: Tessa Berning
 
-Link to github repository: 
+Link to github repository: https://github.com/tbern/Theory-Project-1-tessa/tree/main
 
 Which project options were attempted: knapsack coin problem - develop an equivalent of DumbSAT for the coin problem
 
