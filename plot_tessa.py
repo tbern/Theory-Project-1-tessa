@@ -7,7 +7,7 @@ times_sat = []
 times_unsat = []
 
 # open and read the CSV file
-with open('output.csv', 'r') as csvfile:
+with open('output_tessa.csv', 'r') as csvfile:
     reader = csv.reader(csvfile)
     
     for row in reader:
