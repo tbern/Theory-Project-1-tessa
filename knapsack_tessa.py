@@ -5,7 +5,7 @@ import itertools
 def tester():
 # reads the input from the text file, calls can_make_amount, writes to the output file
     coins = []
-    with open("output.csv", "w", newline='') as csvfile:
+    with open("output_tessa.csv", "w", newline='') as csvfile:
         writer = csv.writer(csvfile)
         # cycle through 1 to 20 variables
         for i in range(1, 20):
